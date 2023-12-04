@@ -1,0 +1,840 @@
+.homeBody{
+    padding-top: 100px !important;
+    background-color: #e5edf0;
+}
+.error
+{
+    color:red;
+}
+.margin-top20{
+    margin-top:20px;
+}
+.clear
+{
+    clear: both;
+}
+.incomplete{
+    background-color: #fff;
+    font-weight: bold;
+}
+.complete{
+    background-color: #f5f5f5;
+}
+.answer
+{
+    margin-left:-25px;
+    margin-top: 15px;
+    text-align: justify;
+}
+.answer li
+{
+    margin:15px auto;
+}
+.custom_page_wrapper
+{
+    padding: 0px !important;
+}
+.bread
+{
+    /*    background-color: white;*/
+}
+.custom_btn
+{
+    height: 30px;
+    width: 40px;
+}
+.top_buttons
+{
+    margin-left: 15px;
+}
+.blue_spin
+{
+    font-size: 20px;
+}
+.spinner
+{
+    color:#428bca;
+    vertical-align: sub;
+    display: none;
+}
+.none
+{
+    display: none;
+}
+.tr_no_click{
+    pointer-events: none;
+}
+.center
+{
+    text-align: center;
+}
+
+.client_table_container tbody tr:hover
+{
+    background-color: #BBDEFB !important;
+    cursor: pointer;
+}
+.client_detail
+{
+    margin-left: 15px;
+    line-height: 22px;
+}
+.info_left
+{
+    float: left;
+    font-weight: bold;
+}
+.info_right
+{
+    float: left;
+    margin-left: 15px;
+}
+.contact_info
+{
+    line-height: 30px;
+}
+.call
+{
+    vertical-align: super;
+}
+.call_btn
+{
+    height: 25px;
+    padding: 3px 6px;
+}
+.call_btn_green_mob, .call_btn_green_phone, .geo_mobile
+{
+    display: none;
+}
+.info_table td
+{
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+.info_table tr td:first-child
+{
+    white-space: nowrap;
+}
+.info_table tr td:nth-child(2)
+{
+    word-wrap: break-word;
+    word-break: break-all
+}
+html, body{
+    width:100% !important;
+}
+.search_client
+{
+    width:100% !important;
+}
+.personal_info
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    /*    padding: 15px;*/
+}
+.search_field
+{
+    width: 200px !important;
+}
+.client_further_info fieldset
+{
+    margin-bottom: 10px;
+}
+.client_further_info fieldset div:first-child
+{
+    font-weight: bold;
+}
+.client_contact_info
+{
+    margin-bottom: 20px;
+}
+.bold
+{
+    font-weight: bold;
+}
+.left
+{
+    float: left;
+}
+.right
+{
+    float: right;
+}
+.add_modal
+{
+    margin-left: -17px;
+}
+.top_buttons button
+{
+    margin-bottom: 10px;
+}
+
+.web_hide
+{
+    display: none;
+}
+
+/*Sticky header scroll in table*/
+
+/*
+Force table width to 100%
+*/
+table.table-fixedheader {
+    width: 100%;
+}
+
+/*
+Set table elements to block mode.  (Normally they are inline).
+This allows a responsive table, such as one where columns can be stacked
+if the display is narrow.
+*/
+table.table-fixedheader,
+table.table-fixedheader>thead,
+table.table-fixedheader>tbody,
+table.table-fixedheader>thead>tr,
+table.table-fixedheader>tbody>tr,
+table.table-fixedheader>thead>tr>th,
+table.table-fixedheader>tbody>td {
+    display: block;
+}
+
+
+table.table-fixedheader>thead>tr:after,
+table.table-fixedheader>tbody>tr:after {
+    content: ' ';
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+/*
+When scrolling the table, actually it is only the tbody portion of the
+table that scrolls (not the entire table: we want the thead to remain
+fixed).  We must specify an explicit height for the tbody.  We include
+100px as a default, but it can be overridden elsewhere.
+
+Also, we force the scrollbar to always be displayed so that the usable
+width for the table contents doesn't change (such as becoming narrower
+when a scrollbar is visible and wider when it is not).
+*/
+table.table-fixedheader>tbody {
+    overflow-y: scroll;
+    height: 200px;
+}
+
+/*
+We really don't want to scroll the thead contents, but we want to force
+a scrollbar to be displayed anyway so that the usable width of the thead
+will exactly match the tbody.
+*/
+table.table-fixedheader>thead {
+    overflow-y: scroll;
+}
+
+/*
+For browsers that support it (webkit), we set the background color of
+the unneeded scrollbar in the thead to make it invisible.  (Setting
+visiblity: hidden defeats the purpose, as this alters the usable width
+of the thead.)
+*/
+table.table-fixedheader>thead::-webkit-scrollbar{
+    background-color: inherit;
+}
+
+/*
+We want to set <th> and <td> elements to float left.
+We also must explicitly set the width for each column (both for the <th>
+and the <td>).  We set to 20% here a default placeholder, but it can be
+overridden elsewhere.
+*/
+table.table-fixedheader>thead>tr>th,
+table.table-fixedheader>tbody>tr>td {
+    width: 14.28%;
+    float: left;
+}
+
+/*        End sticky header*/
+#clientTableSticky{
+    width: 100%;
+    max-width: 100%;
+}
+#clientTableSticky > tbody {
+    overflow: auto;
+    height: 200px;
+    display: block;
+}
+#clientTableSticky thead, #clientTableSticky tbody tr {
+    display:table;
+    width:100%;
+    table-layout:fixed;/* even columns width , fix width of table too*/
+}
+#clientTableSticky thead {
+    width: calc( 100% - 1.2em )/* scrollbar is average 1em/16px width, remove it from thead width */
+}
+#clientTableSticky tbody > tr > td{
+    width: calc( 100% - 1.2em );/* scrollbar is average 1em/16px width, remove it from thead width */
+    min-width: calc( 100% - 1.2em );/* scrollbar is average 1em/16px width, remove it from thead width */
+}
+.panel-title span:hover{
+    cursor:pointer;
+}
+.panel-heading:hover{
+    cursor:pointer;
+}
+#clientTable th:hover
+{
+    cursor: pointer;
+}
+.clientTable{
+    margin-top: 92px;
+}
+.nav_search{
+    top:10px;
+}
+.sort_icon
+{
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.wrapper2{
+    height:100%;
+    width:100%;
+    /*    margin-top:100px;*/
+    background: none;
+}
+
+/*Rounded status web*/
+.status {
+    border: 2px solid transparent;
+    border-radius: 100%;
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 1px 4px;
+}
+
+/*Rounded status mobile*/
+.mobile_status {
+    border: 2px solid transparent;
+    border-radius: 100%;
+    color: #fff;
+    font-size: 8px;
+    font-weight: bold;
+    padding: 0px 2px;
+}
+.map_icon_container
+{
+    float: left;
+    margin-right: 7px;
+    margin-top: 4px;
+    padding: 0px 2px;
+}
+.form-control{
+    height:30px !important;
+}
+/*.select2-container--default .select2-selection--single .select2-selection__rendered{
+    line-height: 25px !important;
+}
+.select2-container--default .select2-selection--single{
+    height:30px !important;
+}
+.select2-container--default .select2-selection--multiple{
+    height:30px !important;
+    min-height:30px !important;
+}*/
+.select2-container-multi .select2-choices{
+    border: 1px solid #ccc !important;
+    padding-left: 6px !important;
+}
+.select2-container .select2-choice > .select2-chosen{
+    color:#555 !important;
+}
+.select2-container .select2-default > .select2-chosen{
+    color:#999 !important;
+}
+.footer{
+    width: 100%;
+    height: 60px;
+    background-color: #f8f8f8;
+    border: 1px solid #e7e7e7;
+}
+.error{
+    color:red;
+}
+.copy{
+    padding: 20px 0;
+    padding-bottom: 9px;
+}
+.navbar-brand
+{
+    padding-bottom: 8px !important;
+}
+#search_result li:hover
+{
+    cursor: pointer;
+}
+.text-copy{
+    text-align: left;
+}
+.text-crafted{
+    text-align: right;
+}
+.text-crafted li:not(:last-child){
+    border-right: 1px solid #e1e1e1;
+    padding-right: 10px;
+}
+.text-crafted a{
+    text-decoration: none;
+}
+@media  (max-width: 384px) {
+    .text-crafted li:not(:last-child){
+        border-right: none;
+        padding-right: 5px;
+    }
+}
+@media  (max-width: 768px) {
+    .text-crafted{
+        text-align: center;
+    }
+    .text-copy{
+        text-align: center;
+    }
+    .free_order_button{
+        font-size: 10.5px;
+        padding: 10px;
+    }
+    .xs-clearfix{
+        clear: both;
+    }
+    .homeBody{
+        padding-top: 51px !important;
+    }
+}
+/* Small devices (tablets, 768px and up) */
+@media  (min-width: 768px) {
+    .text-crafted{
+        text-align: right;
+    }
+    .free_order_button{
+        font-size: 16.5px;
+    }
+    .text-copy{
+        text-align: left;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .text-copy{
+        text-align: left;
+    }
+    .text-crafted{
+        text-align: right;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .text-copy{
+        text-align: left;
+    }
+    .text-crafted{
+        text-align: right;
+    }
+}
+#wrap {
+    min-height: calc(100% - 73px);
+    height: auto;
+    /* Negative indent footer by its height */
+    margin: 0 auto -60px;
+    /* Pad bottom by footer height */
+    padding: 0 0 60px;
+}
+.upload_image_container{
+    height: 80px;
+    background: #eee;
+    display: table;
+    width: 100%;
+}
+.image_preview{
+    width: 80px;
+    height: 80px;
+    border: 1px solid #eee;
+    background: #fff;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    color: #ddd;
+}
+.image_preview img{
+    height:80px;
+    width:80px;
+}
+.image_detail{
+    height: 80px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 5px;
+    padding-right: 5px;
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.image_button{
+    height: 80px;
+    width: 80px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 10px;
+    text-align: right;
+}
+textarea.form-control {
+    height: 100% !important;
+}
+.active-table{
+    cursor: pointer;
+}
+
+/*Styles for Import Category Page*/
+#import_form a:active, a:hover, a:focus {
+    text-decoration: none;
+}
+.attachment_box{
+    width: 100%;
+    background: #eee;
+    display: table;
+    line-height: 20px;
+    padding: 5px 10px;
+    margin: 2px 0;
+    border: 1px solid #ccc;
+    background: #ddd;
+}
+.attachment_box .file_name{
+    display: table-cell;
+    color: #666;
+    vertical-align: middle;
+}
+.attachment_box .file_progress{
+    display: table-cell;
+    vertical-align: middle;
+}
+.attachment_box .file_progress .progress{
+    margin-bottom: 0;
+}
+.attachment_box .cancel_upload,.attachment_box .edit_cancel_upload,.attachment_box .edit_download_upload{
+    display: table-cell;
+    vertical-align: middle;
+    width: 20px;
+    padding-left: 10px;
+    color: #666;
+    cursor: pointer;
+}
+
+#attach_file:hover,#attach_file:focus{
+    text-decoration: none;
+}
+
+.sub-cat-xs{
+    list-style: none;
+    padding:0;
+}
+.sub-cat-xs li a{
+    line-height:20px;
+    color:#999;
+    position:relative;
+    display:block;
+    padding:10px 30px;
+}
+.sub-cat-xs li a:hover{
+    color:#555;
+}
+.sub-cat-xs li.active a{
+    color: #555;
+    background-color: #e7e7e7;
+}
+.navbar-default .navbar-nav li:not(.active) a:hover{
+    color: #3b5998 !important;
+    background-color: #69c0e2;
+}
+.sub-cat-xs li a:hover{
+    color: #555;
+    background-color: #e7e7e7;
+}
+.visible-md-sub{
+    display:none !important;
+}
+.hidden-md-sub{
+    display:block !important;
+}
+/*@media (min-width: 768px) {
+    .navbar-toggle{
+        display: block;
+    }
+}*/
+@media (max-width: 1087px) {
+    .navbar-header {
+        float: none;
+    }
+    .hidden-md-sub{
+        display:none !important;
+    }
+    .visible-md-sub{
+        display:block !important;
+        margin-bottom: 0;
+    }
+    .navbar-toggle {
+        display: block;
+        float: left;
+        margin-left: 15px;
+        border-color: #3b5998 !important;
+        background-color: #fff;
+    }
+    .navbar-default .navbar-toggle .icon-bar{
+        background-color: #3b5998;
+    }
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+        background: #fff;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+        margin-right: -15px !important;
+        margin-left: -15px !important;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+        background: #fff;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-text {
+        float: none;
+        margin: 15px 0;
+    }
+    /* since 3.1.0 */
+    .navbar-collapse.collapse.in {
+        display: block!important;
+        overflow-y: auto !important;
+        border-bottom: 1px solid #ccc;
+        background: #fff;
+    }
+    .navbar-form{
+        float: none !important;
+    }
+    .navbar-form .input-group{
+        width: 100% !important;
+    }
+    .main_category li a{
+        font-weight: bold;
+    }
+    .main_category li ul li a{
+        font-weight: normal;
+    }
+    .child_category_title{
+        padding: 10px 15px;
+        font-weight: bold;
+        position: relative;
+    }
+    .child_category_title .fa-angle-left{
+        position: absolute;
+        left: 2%;
+        top: 11%;
+        color:#c2c2c2;
+    }
+    .child_category_title:hover{
+        cursor: pointer;
+        background-color: #e7e7e7;
+    }
+    .child_category_div ul li{
+        border-bottom: 1px solid #e1e1e1;
+    }
+    .child_category_div ul li:last-child{
+        border-bottom: none;
+    }
+    .main_category li{
+        position: relative;
+        border-bottom: 1px solid #e1e1e1;
+    }
+    .main_category li a .fa-angle-right{
+        position: absolute;
+        right: 2%;
+        top: 20%;
+        color:#c2c2c2;
+    }
+    #socialHolder {
+        position: relative;
+        padding: 0;
+        text-align: center;
+        margin-top: 6px;
+    }
+    #socialShare {
+        position: static !important;
+        width: 100% !important;
+        margin-bottom: 0;
+    }
+    #socialShare ul{
+        list-style: none;
+        display: -webkit-inline-box !important;
+        padding: 0;
+        margin-bottom: 0;
+    }
+    #socialShare ul li{
+        margin-right: 10px;
+    }
+    #socialHolder .btn:not(.static){
+        background: #6c4957;
+        color: #fff;
+        display: inline-block;
+    }
+    #socialHolder .btn.static{
+        color: #6c4957;
+    }
+    #socialHolder .btn.static span{
+        line-height: 23px;
+    }
+    #socialHolder li span{
+        display: block;
+        color: #777;
+        font-size: 10px;
+        line-height: 27px;
+    }
+    .center{
+        margin: 0 !important ;
+    }
+}
+.cron_container
+{
+    margin-left: 0px;
+}
+.cron_container table tr td:first-child
+{
+    font-weight: bold;
+    padding-right: 10px;
+}
+.cron_container div
+{
+    margin-bottom: 30px;
+}
+.lb-data .lb-details{
+    width:91% !important;
+    text-align: center !important;
+}
+/*.lb-caption{
+    background-color: #000;
+    padding: 5px;
+}*/
+/*.lb-container .lb-dataContainer{
+    position:absolute;
+    z-index:10;
+    bottom:15px;
+    left:0;
+}*/
+.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse{
+    max-height: 380px !important;
+}
+.mobile{
+    display: none;
+}
+@media  (max-width: 768px) {
+    .mobile{
+        display: inline-block;
+    }
+    .desktop{
+        display: none;
+    }
+    .padding0
+    {
+        padding: 0px 0px 10px 0px !important;
+    }
+    .top_mobile{
+        top:0%;
+    }
+    .top_mobile_0{
+        top:-100% !important;
+    }
+}
+.text-purple
+{
+    color:#800080 !important;
+}
+
+.explore_the_web{
+    text-align: -webkit-center;
+    padding: 0;
+}
+.explore_the_web img{
+    height: 14px;
+    margin-top: 8px;
+}
+.cat_blue{
+    color: #3399CC !important;
+}
+.time_red{
+    color:#CC1E2D !important;
+}
+#web_search_form .image_capture_attempt:focus
+{
+    border-color: #888;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+
+}
+#web_search_form .search_field
+{
+    margin-bottom: 5px;
+}
+#search_form.visible-xs-inline .form-control{
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+}
+#search_form.visible-xs-inline .btn-sm, .btn-group-sm>.btn{
+    border-radius: 0;
+}
+#search_form.visible-xs-inline .btn-default{
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid transparent;
+}
+#search_form.visible-xs-inline .form-control:focus{
+    box-shadow: none;
+}
+.btn-circle {
+    width: 22px;
+    height: 22px;
+    text-align: center;
+    padding: 2px 0px;
+    font-size: 11px;
+    line-height: 1.428571429;
+    border-radius: 15px;
+}
+
+.suggested_btn {
+    background: #fc7901;
+    color: #FFFFFF;
+    border-color: #fc7901;
+}
+
+.suggested_btn:hover, .suggested_btn:active, .suggested_btn:focus {
+    background: #d4741b !important;
+    color: #FFFFFF !important;
+    border-color: #d4741b !important;
+    outline: none;
+}
+.navbar-right{
+    margin-right: 0;
+}

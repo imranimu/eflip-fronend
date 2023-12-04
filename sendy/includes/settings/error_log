@@ -1,0 +1,12 @@
+[19-Nov-2023 02:49:48 America/New_York] PHP Warning:  Undefined array key "send_rate" in /home/eflip/public_html/sendy/includes/settings/save.php on line 19
+[19-Nov-2023 02:49:48 America/New_York] PHP Warning:  Undefined array key "campaign_report_rows" in /home/eflip/public_html/sendy/includes/settings/save.php on line 36
+[19-Nov-2023 02:49:48 America/New_York] PHP Warning:  Undefined array key "query_string" in /home/eflip/public_html/sendy/includes/settings/save.php on line 37
+[19-Nov-2023 02:49:48 America/New_York] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/settings/save.php on line 37
+[19-Nov-2023 02:49:48 America/New_York] PHP Warning:  Undefined array key "recaptcha_sitekey" in /home/eflip/public_html/sendy/includes/settings/save.php on line 41
+[19-Nov-2023 02:49:48 America/New_York] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/settings/save.php on line 41
+[19-Nov-2023 02:49:48 America/New_York] PHP Warning:  Undefined array key "recaptcha_secretkey" in /home/eflip/public_html/sendy/includes/settings/save.php on line 42
+[19-Nov-2023 02:49:48 America/New_York] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/settings/save.php on line 42
+[19-Nov-2023 02:49:48 America/New_York] PHP Warning:  Undefined array key "test_email_prefix" in /home/eflip/public_html/sendy/includes/settings/save.php on line 43
+[19-Nov-2023 02:49:48 America/New_York] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/settings/save.php on line 43
+[19-Nov-2023 02:49:48 America/New_York] PHP Warning:  Undefined array key "templates_lists_sorting" in /home/eflip/public_html/sendy/includes/settings/save.php on line 44
+[19-Nov-2023 02:49:48 America/New_York] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/settings/save.php on line 44

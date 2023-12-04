@@ -1,0 +1,28 @@
+[06-Nov-2022 12:33:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/new.eflip.com/vendor/symfony/process/Pipes/UnixPipes.php on line 113
+[06-Nov-2022 19:38:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/new.eflip.com/vendor/symfony/process/Pipes/UnixPipes.php on line 113
+[06-Nov-2022 20:27:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/new.eflip.com/vendor/symfony/process/Pipes/UnixPipes.php on line 113
+[10-Nov-2022 04:06:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 113
+[10-Nov-2022 04:46:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 113
+[10-Nov-2022 04:46:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/symfony/process/Process.php on line 347
+[10-Nov-2022 06:04:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 113
+[10-Nov-2022 06:05:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/symfony/process/Process.php on line 347
+[10-Nov-2022 08:07:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 113
+[15-Nov-2022 02:30:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 113
+[15-Nov-2022 02:31:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/monolog/monolog/src/Monolog/Utils.php on line 285
+[15-Nov-2022 03:07:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 113
+[15-Nov-2022 03:08:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eflip/public_html/vendor/symfony/process/Process.php on line 347
+[26-Apr-2023 17:30:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/eflip/public_html/vendor/psy/psysh/src/VarDumper/Presenter.php on line 130
+[26-Apr-2023 17:30:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/eflip/public_html/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php on line 27
+[26-Apr-2023 17:31:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/eflip/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 420
+[26-Apr-2023 17:31:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/eflip/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 306
+[26-Apr-2023 17:42:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/eflip/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 149
+[26-Apr-2023 17:42:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/eflip/public_html/vendor/nunomaduro/collision/src/Contracts/Handler.php on line 13
+[26-Apr-2023 17:43:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/eflip/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 149
+[26-Apr-2023 17:43:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/eflip/public_html/vendor/nunomaduro/collision/src/ConsoleColor.php on line 13
+[26-Apr-2023 17:44:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/eflip/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 149
+[26-Apr-2023 17:44:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/eflip/public_html/vendor/nunomaduro/collision/src/ConsoleColor.php on line 13
+[26-Apr-2023 17:54:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 118784 bytes) in /home/eflip/public_html/vendor/psy/psysh/src/VarDumper/Presenter.php on line 130
+[26-Apr-2023 17:55:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/eflip/public_html/vendor/symfony/var-dumper/Cloner/Cursor.php on line 19
+[26-Apr-2023 17:55:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/eflip/public_html/vendor/filp/whoops/src/Whoops/Exception/Frame.php on line 112
+[26-Apr-2023 17:56:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 139264 bytes) in /home/eflip/public_html/vendor/psy/psysh/src/Shell.php on line 1127
+[26-Apr-2023 17:56:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 135168 bytes) in /home/eflip/public_html/vendor/nunomaduro/collision/src/Highlighter.php on line 155

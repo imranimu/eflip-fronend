@@ -1,0 +1,76 @@
+[22-Dec-2022 13:03:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[22-Dec-2022 13:12:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[29-Dec-2022 10:25:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[10-Jan-2023 08:28:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[13-Jan-2023 17:15:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[31-Jan-2023 09:46:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[02-Feb-2023 23:22:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[02-Feb-2023 23:28:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[02-Feb-2023 23:32:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[08-Feb-2023 17:11:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[08-Feb-2023 19:03:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[19-Feb-2023 20:21:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[23-Feb-2023 15:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[26-Feb-2023 13:32:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[04-Mar-2023 11:32:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[09-Mar-2023 19:59:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[29-Mar-2023 23:42:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[21-Apr-2023 02:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21
+[29-Apr-2023 10:58:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/admin/AdminController.php on line 21

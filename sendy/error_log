@@ -1,0 +1,269 @@
+[07-Nov-2023 05:23:03 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 05:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function seekto() on null in /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php:149
+Stack trace:
+#0 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php(255): gettext_reader->load_tables()
+#1 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(279): gettext_reader->translate('Light')
+#2 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(286): _gettext('Light')
+#3 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(497): __('Light')
+#4 /home/eflip/public_html/sendy/includes/footer.php(21): _('Light')
+#5 /home/eflip/public_html/sendy/_install.php(1) : eval()'d code(318): include('/home/eflip/pub...')
+#6 /home/eflip/public_html/sendy/_install.php(1): eval()
+#7 {main}
+  thrown in /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php on line 149
+[07-Nov-2023 05:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function seekto() on null in /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php:149
+Stack trace:
+#0 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php(255): gettext_reader->load_tables()
+#1 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(279): gettext_reader->translate('Error')
+#2 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(286): _gettext('Error')
+#3 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(497): __('Error')
+#4 /home/eflip/public_html/sendy/includes/header.php(100): _('Error')
+#5 [internal function]: catch_fatal_error()
+#6 {main}
+  thrown in /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php on line 149
+[07-Nov-2023 05:26:14 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 05:26:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function seekto() on null in /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php:149
+Stack trace:
+#0 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php(255): gettext_reader->load_tables()
+#1 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(279): gettext_reader->translate('Light')
+#2 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(286): _gettext('Light')
+#3 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(497): __('Light')
+#4 /home/eflip/public_html/sendy/includes/footer.php(21): _('Light')
+#5 /home/eflip/public_html/sendy/_install.php(1) : eval()'d code(318): include('/home/eflip/pub...')
+#6 /home/eflip/public_html/sendy/_install.php(1): eval()
+#7 {main}
+  thrown in /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php on line 149
+[07-Nov-2023 05:26:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function seekto() on null in /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php:149
+Stack trace:
+#0 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php(255): gettext_reader->load_tables()
+#1 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(279): gettext_reader->translate('Error')
+#2 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(286): _gettext('Error')
+#3 /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.inc(497): __('Error')
+#4 /home/eflip/public_html/sendy/includes/header.php(100): _('Error')
+#5 [internal function]: catch_fatal_error()
+#6 {main}
+  thrown in /home/eflip/public_html/sendy/includes/helpers/gettext/gettext.php on line 149
+[07-Nov-2023 05:31:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 05:33:01 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 05:33:03 UTC] [Unable to SELECT data from 'lists' table]Unknown column 'notify_new_signups' in 'field list': in /home/eflip/public_html/sendy/includes/update.php on line 948
+[07-Nov-2023 05:33:03 UTC] [Unable to SELECT data from 'apps' table]: in /home/eflip/public_html/sendy/includes/update.php on line 965
+[07-Nov-2023 05:33:03 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 05:33:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[07-Nov-2023 00:33:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 244
+[07-Nov-2023 00:33:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 261
+[07-Nov-2023 05:33:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 05:33:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[07-Nov-2023 05:33:26 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 05:33:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[07-Nov-2023 00:33:36 America/New_York] PHP Warning:  Undefined array key "c" in /home/eflip/public_html/sendy/reset-cron.php on line 13
+[07-Nov-2023 05:35:21 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 05:35:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[07-Nov-2023 07:35:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 07:35:51 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 07:35:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[07-Nov-2023 02:36:24 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 244
+[07-Nov-2023 02:36:24 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 261
+[07-Nov-2023 11:40:15 UTC] PHP Warning:  Undefined array key "userID" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 153
+[07-Nov-2023 11:40:15 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 273
+[07-Nov-2023 11:40:15 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 285
+[07-Nov-2023 11:40:15 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 296
+[07-Nov-2023 11:40:15 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 296
+[07-Nov-2023 11:40:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 11:40:16 UTC] PHP Warning:  Undefined array key "userID" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 153
+[07-Nov-2023 11:40:16 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 273
+[07-Nov-2023 11:40:16 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 275
+[07-Nov-2023 11:40:16 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 275
+[07-Nov-2023 11:40:16 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[07-Nov-2023 11:40:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 100
+[07-Nov-2023 11:40:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[09-Nov-2023 02:19:11 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[09-Nov-2023 02:19:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[10-Nov-2023 01:33:28 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[10-Nov-2023 01:33:28 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[12-Nov-2023 18:23:30 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[12-Nov-2023 18:23:30 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[12-Nov-2023 18:24:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[12-Nov-2023 18:24:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[12-Nov-2023 19:35:32 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[12-Nov-2023 19:35:32 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 01:02:34 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 01:02:34 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 02:34:37 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 02:34:37 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 05:32:19 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 05:32:19 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 09:38:43 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 09:38:43 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 17:54:56 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 17:54:56 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[13-Nov-2023 17:55:13 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[13-Nov-2023 17:55:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[14-Nov-2023 05:30:04 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[14-Nov-2023 05:30:04 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[14-Nov-2023 12:02:29 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[14-Nov-2023 12:02:29 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[14-Nov-2023 15:18:16 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[14-Nov-2023 15:18:16 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[15-Nov-2023 15:09:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[15-Nov-2023 15:10:03 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[15-Nov-2023 15:10:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[17-Nov-2023 17:24:01 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[17-Nov-2023 17:24:01 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[17-Nov-2023 21:09:27 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[17-Nov-2023 21:09:27 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[18-Nov-2023 06:41:00 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[18-Nov-2023 06:41:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[18-Nov-2023 15:41:55 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[18-Nov-2023 15:41:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[18-Nov-2023 20:06:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[18-Nov-2023 20:50:20 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[18-Nov-2023 20:50:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[18-Nov-2023 20:51:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[18-Nov-2023 20:57:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 06:23:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 07:24:10 UTC] PHP Warning:  Undefined array key "userID" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 153
+[19-Nov-2023 07:24:10 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 273
+[19-Nov-2023 07:24:10 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 285
+[19-Nov-2023 07:24:10 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 296
+[19-Nov-2023 07:24:10 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 296
+[19-Nov-2023 07:24:10 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 07:24:11 UTC] PHP Warning:  Undefined array key "userID" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 153
+[19-Nov-2023 07:24:11 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 273
+[19-Nov-2023 07:24:11 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 275
+[19-Nov-2023 07:24:11 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 275
+[19-Nov-2023 07:24:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 07:24:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 100
+[19-Nov-2023 07:24:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[19-Nov-2023 02:48:46 America/New_York] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/settings.php on line 403
+[19-Nov-2023 02:48:46 America/New_York] PHP Warning:  Undefined variable $send_rate in /home/eflip/public_html/sendy/settings.php on line 771
+[19-Nov-2023 07:55:03 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[19-Nov-2023 07:55:03 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[19-Nov-2023 07:55:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 07:55:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[19-Nov-2023 19:00:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 19:00:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 19:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[19-Nov-2023 20:19:58 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[19-Nov-2023 20:19:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[19-Nov-2023 20:20:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 20:20:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[19-Nov-2023 20:26:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 20:26:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[19-Nov-2023 20:26:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[20-Nov-2023 02:14:26 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[20-Nov-2023 02:14:26 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Undefined array key "userID" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 153
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 273
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 285
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 296
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 296
+[20-Nov-2023 07:24:21 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Undefined array key "userID" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 153
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 273
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 275
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 275
+[20-Nov-2023 07:24:21 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 100
+[20-Nov-2023 07:24:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[20-Nov-2023 07:32:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[20-Nov-2023 07:32:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[20-Nov-2023 10:37:39 UTC] PHP Warning:  Undefined array key "userID" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 153
+[20-Nov-2023 10:37:39 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 273
+[20-Nov-2023 10:37:39 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 285
+[20-Nov-2023 10:37:39 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 296
+[20-Nov-2023 10:37:39 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 296
+[20-Nov-2023 10:37:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[20-Nov-2023 10:37:40 UTC] PHP Warning:  Undefined array key "userID" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 153
+[20-Nov-2023 10:37:40 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 273
+[20-Nov-2023 10:37:40 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 275
+[20-Nov-2023 10:37:40 UTC] PHP Warning:  Undefined array key "license" in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 275
+[20-Nov-2023 10:37:40 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[20-Nov-2023 10:37:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 100
+[20-Nov-2023 10:37:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[20-Nov-2023 10:55:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[20-Nov-2023 10:56:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[20-Nov-2023 10:56:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[20-Nov-2023 15:14:30 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[20-Nov-2023 15:14:31 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[20-Nov-2023 15:14:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[21-Nov-2023 05:39:45 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[21-Nov-2023 05:39:45 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[21-Nov-2023 05:42:30 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[21-Nov-2023 05:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[21-Nov-2023 19:28:31 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[21-Nov-2023 19:28:31 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[21-Nov-2023 22:18:03 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[21-Nov-2023 22:18:03 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[22-Nov-2023 03:20:58 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[22-Nov-2023 03:20:58 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[22-Nov-2023 04:32:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[22-Nov-2023 04:32:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[22-Nov-2023 07:20:15 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[22-Nov-2023 07:20:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[22-Nov-2023 18:45:34 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[22-Nov-2023 18:45:34 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[23-Nov-2023 00:19:37 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[23-Nov-2023 00:19:37 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[23-Nov-2023 02:10:03 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[23-Nov-2023 02:10:03 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[23-Nov-2023 17:05:42 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[23-Nov-2023 17:05:42 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[23-Nov-2023 17:24:32 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[23-Nov-2023 17:24:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[24-Nov-2023 05:25:41 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[24-Nov-2023 05:25:55 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[24-Nov-2023 05:25:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[24-Nov-2023 14:18:16 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[24-Nov-2023 14:18:16 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[24-Nov-2023 20:33:28 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[25-Nov-2023 05:36:34 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[25-Nov-2023 05:36:34 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[25-Nov-2023 23:21:28 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[25-Nov-2023 23:21:28 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[26-Nov-2023 06:44:27 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[26-Nov-2023 06:44:27 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[28-Nov-2023 14:29:20 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[28-Nov-2023 14:29:20 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[29-Nov-2023 18:30:14 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[29-Nov-2023 18:30:14 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[29-Nov-2023 18:30:18 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[29-Nov-2023 18:30:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[30-Nov-2023 04:40:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[30-Nov-2023 04:41:01 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[30-Nov-2023 04:41:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[30-Nov-2023 04:41:26 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[30-Nov-2023 04:41:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[30-Nov-2023 18:02:21 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[30-Nov-2023 18:02:21 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[30-Nov-2023 19:02:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[30-Nov-2023 20:39:44 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[30-Nov-2023 20:39:44 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[01-Dec-2023 04:52:05 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[01-Dec-2023 04:52:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[02-Dec-2023 04:18:27 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[02-Dec-2023 04:18:27 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:21:35 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:21:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:22:20 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:22:20 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:22:21 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:22:21 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:22:21 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:22:21 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:23:41 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:23:41 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:23:42 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:23:42 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:23:42 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:23:42 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:23:47 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:23:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:24:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[03-Dec-2023 22:24:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[03-Dec-2023 22:24:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[03-Dec-2023 22:24:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[03-Dec-2023 22:24:16 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[03-Dec-2023 22:24:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[03-Dec-2023 22:24:17 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 132
+[03-Dec-2023 22:24:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eflip/public_html/sendy/includes/header.php:57) in /home/eflip/public_html/sendy/includes/functions.php(1) : eval()'d code on line 102
+[03-Dec-2023 22:41:04 UTC] PHP Warning:  Undefined variable $logo_filename in /home/eflip/public_html/sendy/includes/header.php on line 38
+[03-Dec-2023 22:41:04 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eflip/public_html/sendy/includes/header.php on line 38

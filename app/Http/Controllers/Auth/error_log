@@ -1,0 +1,1088 @@
+[01-Dec-2022 07:13:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[01-Dec-2022 07:13:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[01-Dec-2022 07:13:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[01-Dec-2022 07:13:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[01-Dec-2022 07:13:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[01-Dec-2022 07:13:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[02-Dec-2022 08:48:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[02-Dec-2022 08:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[02-Dec-2022 08:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[02-Dec-2022 08:48:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[02-Dec-2022 08:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[02-Dec-2022 08:48:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[04-Dec-2022 01:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[04-Dec-2022 01:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[04-Dec-2022 01:17:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[04-Dec-2022 01:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[04-Dec-2022 01:17:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[04-Dec-2022 01:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[06-Dec-2022 16:36:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[06-Dec-2022 16:36:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[06-Dec-2022 16:36:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[06-Dec-2022 16:36:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[06-Dec-2022 16:36:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[06-Dec-2022 16:36:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[09-Dec-2022 03:40:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[09-Dec-2022 12:07:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[09-Dec-2022 13:06:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[09-Dec-2022 18:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[10-Dec-2022 01:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[10-Dec-2022 06:16:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[11-Dec-2022 17:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[11-Dec-2022 17:39:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[11-Dec-2022 17:40:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[11-Dec-2022 17:40:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[11-Dec-2022 17:40:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[11-Dec-2022 17:40:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[26-Dec-2022 23:30:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Dec-2022 00:26:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[28-Dec-2022 02:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[28-Dec-2022 15:13:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[28-Dec-2022 19:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[29-Dec-2022 15:47:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[02-Feb-2023 23:20:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[02-Feb-2023 23:20:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[02-Feb-2023 23:25:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[02-Feb-2023 23:25:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[08-Feb-2023 19:03:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[08-Feb-2023 19:03:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[08-Feb-2023 19:03:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[08-Feb-2023 19:03:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[08-Feb-2023 19:03:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[08-Feb-2023 19:03:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[08-Feb-2023 19:03:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[08-Feb-2023 19:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[08-Feb-2023 19:38:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[12-Feb-2023 14:43:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[21-Feb-2023 05:19:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[21-Feb-2023 05:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[21-Feb-2023 05:19:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[21-Feb-2023 05:19:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[21-Feb-2023 05:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[21-Feb-2023 05:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[21-Feb-2023 23:41:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[22-Feb-2023 12:32:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[22-Feb-2023 18:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[23-Feb-2023 21:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[24-Feb-2023 00:04:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[24-Feb-2023 01:27:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[24-Feb-2023 02:14:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Feb-2023 15:19:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Feb-2023 16:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[12-Mar-2023 20:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[13-Mar-2023 05:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[13-Mar-2023 06:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[13-Mar-2023 12:31:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[13-Mar-2023 19:24:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[13-Mar-2023 23:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[17-Mar-2023 14:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[25-Mar-2023 16:16:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Mar-2023 13:32:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Mar-2023 14:29:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[30-Mar-2023 05:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[31-Mar-2023 01:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[01-Apr-2023 09:15:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[01-Apr-2023 22:05:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[02-Apr-2023 02:48:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[03-Apr-2023 04:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[11-Apr-2023 09:10:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[15-Apr-2023 14:52:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[25-Apr-2023 12:28:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[29-Apr-2023 10:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[29-Apr-2023 10:58:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[29-Apr-2023 10:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[29-Apr-2023 10:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[29-Apr-2023 10:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[29-Apr-2023 10:58:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[03-Jul-2023 07:43:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[03-Jul-2023 20:42:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[04-Jul-2023 01:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[09-Jul-2023 08:01:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[12-Jul-2023 18:30:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[12-Jul-2023 18:30:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[12-Jul-2023 18:30:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[12-Jul-2023 18:30:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[12-Jul-2023 18:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[12-Jul-2023 18:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[22-Jul-2023 21:35:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[29-Jul-2023 16:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[29-Jul-2023 16:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[30-Jul-2023 22:33:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[02-Aug-2023 02:16:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[02-Aug-2023 02:17:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[02-Aug-2023 02:17:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[02-Aug-2023 02:17:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[02-Aug-2023 02:17:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[02-Aug-2023 02:17:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[04-Aug-2023 18:17:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[06-Aug-2023 23:17:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[08-Aug-2023 03:58:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[08-Aug-2023 20:55:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[16-Aug-2023 12:51:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[24-Aug-2023 02:56:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[28-Aug-2023 06:55:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[28-Aug-2023 13:05:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[02-Sep-2023 03:45:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[02-Sep-2023 07:04:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[02-Sep-2023 07:41:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[15-Sep-2023 03:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[16-Sep-2023 00:21:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[16-Sep-2023 04:17:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[18-Sep-2023 12:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[18-Sep-2023 12:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[18-Sep-2023 12:18:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[18-Sep-2023 12:18:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[18-Sep-2023 12:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[18-Sep-2023 12:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[18-Sep-2023 12:19:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[18-Sep-2023 12:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[18-Sep-2023 12:19:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[18-Sep-2023 12:19:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[18-Sep-2023 12:19:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[18-Sep-2023 12:19:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[18-Sep-2023 20:44:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[18-Sep-2023 21:30:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[19-Sep-2023 03:35:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[19-Sep-2023 10:06:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[19-Sep-2023 14:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[22-Sep-2023 12:21:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[23-Sep-2023 13:29:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[24-Sep-2023 04:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[25-Sep-2023 05:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[25-Sep-2023 20:49:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[25-Sep-2023 22:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[26-Sep-2023 01:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[26-Sep-2023 01:25:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[26-Sep-2023 01:26:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[26-Sep-2023 01:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[26-Sep-2023 01:27:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[26-Sep-2023 01:28:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Sep-2023 09:20:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Sep-2023 09:20:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Sep-2023 09:20:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Sep-2023 09:20:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Sep-2023 09:20:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Sep-2023 09:20:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[01-Oct-2023 02:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[01-Oct-2023 08:11:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[01-Oct-2023 10:44:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[01-Oct-2023 13:08:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[02-Oct-2023 02:05:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[02-Oct-2023 02:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[02-Oct-2023 03:06:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[02-Oct-2023 10:25:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[03-Oct-2023 02:52:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[03-Oct-2023 11:07:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[03-Oct-2023 14:59:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[04-Oct-2023 13:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[06-Oct-2023 22:02:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[06-Oct-2023 22:02:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[06-Oct-2023 22:02:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[06-Oct-2023 22:03:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[06-Oct-2023 22:03:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[06-Oct-2023 22:03:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[07-Oct-2023 03:07:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[07-Oct-2023 12:55:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[07-Oct-2023 22:01:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[09-Oct-2023 11:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[10-Oct-2023 06:16:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[10-Oct-2023 15:04:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[12-Oct-2023 09:34:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[17-Oct-2023 14:41:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[18-Oct-2023 07:28:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[18-Oct-2023 07:30:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[18-Oct-2023 07:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[18-Oct-2023 07:33:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[18-Oct-2023 07:34:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[18-Oct-2023 23:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[19-Oct-2023 04:00:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[19-Oct-2023 07:45:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[20-Oct-2023 19:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[21-Oct-2023 16:05:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[21-Oct-2023 16:05:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[21-Oct-2023 16:05:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[21-Oct-2023 16:05:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[21-Oct-2023 16:05:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[21-Oct-2023 16:05:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[21-Oct-2023 19:03:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[22-Oct-2023 21:47:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[22-Oct-2023 21:47:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[22-Oct-2023 21:47:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[22-Oct-2023 21:47:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[22-Oct-2023 21:47:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[22-Oct-2023 21:47:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[23-Oct-2023 00:30:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[23-Oct-2023 09:18:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[23-Oct-2023 09:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[23-Oct-2023 09:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[23-Oct-2023 09:18:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[23-Oct-2023 09:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[23-Oct-2023 09:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[26-Oct-2023 14:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Oct-2023 02:01:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[31-Oct-2023 11:27:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[01-Nov-2023 00:59:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[01-Nov-2023 00:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[01-Nov-2023 00:59:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[01-Nov-2023 00:59:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[01-Nov-2023 00:59:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[01-Nov-2023 00:59:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[06-Nov-2023 06:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[06-Nov-2023 13:10:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[06-Nov-2023 14:46:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[06-Nov-2023 18:32:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[07-Nov-2023 03:21:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[07-Nov-2023 03:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[07-Nov-2023 19:56:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[07-Nov-2023 19:57:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[07-Nov-2023 20:18:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[07-Nov-2023 20:18:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[07-Nov-2023 20:27:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[07-Nov-2023 20:48:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[07-Nov-2023 20:58:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[07-Nov-2023 20:58:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[07-Nov-2023 21:00:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[13-Nov-2023 09:50:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[13-Nov-2023 10:14:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[16-Nov-2023 09:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[16-Nov-2023 09:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[16-Nov-2023 09:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[16-Nov-2023 09:30:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[16-Nov-2023 09:30:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[16-Nov-2023 09:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[16-Nov-2023 16:02:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[16-Nov-2023 16:02:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[16-Nov-2023 16:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[16-Nov-2023 16:02:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[16-Nov-2023 16:02:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[16-Nov-2023 16:02:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[18-Nov-2023 19:47:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[18-Nov-2023 21:00:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[18-Nov-2023 21:00:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[18-Nov-2023 21:29:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[24-Nov-2023 09:11:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[24-Nov-2023 09:12:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[24-Nov-2023 11:46:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[24-Nov-2023 11:46:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[24-Nov-2023 12:49:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[24-Nov-2023 19:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[25-Nov-2023 00:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Nov-2023 13:42:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[28-Nov-2023 02:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[28-Nov-2023 09:33:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9

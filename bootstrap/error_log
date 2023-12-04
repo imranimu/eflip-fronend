@@ -1,0 +1,716 @@
+[09-Nov-2022 17:16:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Nov-2022 17:17:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Nov-2022 17:17:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Nov-2022 17:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Nov-2022 17:20:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Nov-2022 17:44:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Nov-2022 17:55:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Nov-2022 18:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Nov-2022 18:29:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Nov-2022 18:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[13-Nov-2022 21:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[16-Nov-2022 11:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[19-Nov-2022 05:35:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[24-Nov-2022 01:10:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[26-Nov-2022 16:00:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[29-Nov-2022 20:36:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[30-Nov-2022 03:45:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Dec-2022 07:01:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Dec-2022 07:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Dec-2022 07:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Dec-2022 07:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Dec-2022 07:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Dec-2022 07:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Dec-2022 17:51:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Dec-2022 10:03:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Dec-2022 22:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Dec-2022 22:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Dec-2022 22:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Dec-2022 22:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Dec-2022 22:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[04-Dec-2022 13:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[05-Dec-2022 10:13:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[07-Dec-2022 20:29:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[08-Dec-2022 09:04:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[08-Dec-2022 09:04:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[08-Dec-2022 11:33:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[08-Dec-2022 17:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[08-Dec-2022 17:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[09-Dec-2022 02:39:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[10-Dec-2022 16:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[13-Dec-2022 01:14:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[15-Dec-2022 11:50:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[15-Dec-2022 20:05:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[16-Dec-2022 10:11:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[17-Dec-2022 15:56:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[17-Dec-2022 15:56:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[19-Dec-2022 17:01:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[19-Dec-2022 17:01:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[21-Dec-2022 04:46:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[23-Dec-2022 18:15:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[23-Dec-2022 18:15:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[29-Dec-2022 14:06:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[29-Dec-2022 15:59:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[29-Dec-2022 16:37:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[30-Dec-2022 09:52:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Jan-2023 00:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[04-Jan-2023 06:08:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[05-Jan-2023 16:55:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[05-Jan-2023 23:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[15-Jan-2023 15:42:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[17-Jan-2023 01:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[18-Jan-2023 00:38:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[21-Jan-2023 21:13:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[22-Jan-2023 18:10:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[27-Jan-2023 00:05:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[28-Jan-2023 23:17:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[29-Jan-2023 12:17:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[30-Jan-2023 16:40:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Feb-2023 22:27:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Feb-2023 23:05:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Feb-2023 23:17:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[03-Feb-2023 08:05:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[03-Feb-2023 22:08:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[11-Feb-2023 14:27:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[12-Feb-2023 14:28:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[16-Feb-2023 18:39:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[17-Feb-2023 03:58:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[19-Feb-2023 09:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[20-Feb-2023 18:51:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[23-Feb-2023 15:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[23-Feb-2023 20:53:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[25-Feb-2023 05:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[27-Feb-2023 14:42:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Mar-2023 15:28:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Mar-2023 19:46:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Mar-2023 19:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Mar-2023 19:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Mar-2023 19:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[01-Mar-2023 19:46:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Mar-2023 14:24:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[05-Mar-2023 07:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[08-Mar-2023 12:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[12-Mar-2023 19:56:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[13-Mar-2023 04:01:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[16-Mar-2023 10:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[18-Mar-2023 03:13:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[22-Mar-2023 12:07:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[23-Mar-2023 12:15:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[02-Apr-2023 03:33:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[03-Apr-2023 10:05:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[17-Apr-2023 03:39:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[17-Apr-2023 13:05:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[18-Apr-2023 21:02:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[20-Apr-2023 07:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[22-Apr-2023 22:39:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[24-Apr-2023 16:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 14
+[03-Jul-2023 06:22:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[12-Jul-2023 15:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[14-Jul-2023 22:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[15-Jul-2023 12:55:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[16-Jul-2023 21:42:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[17-Jul-2023 04:29:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[21-Jul-2023 01:53:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[24-Jul-2023 06:56:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[24-Jul-2023 17:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[27-Jul-2023 01:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[28-Jul-2023 17:18:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[28-Jul-2023 17:35:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[31-Jul-2023 05:22:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[31-Jul-2023 09:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[31-Jul-2023 09:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[01-Aug-2023 00:54:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[01-Aug-2023 11:16:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Aug-2023 18:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Aug-2023 18:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Aug-2023 22:21:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[11-Aug-2023 06:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[12-Aug-2023 03:14:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[15-Aug-2023 04:47:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[15-Aug-2023 19:05:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[17-Aug-2023 05:49:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[29-Aug-2023 21:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[30-Aug-2023 23:55:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[31-Aug-2023 00:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[08-Sep-2023 10:23:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[08-Sep-2023 19:24:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[14-Sep-2023 05:13:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[16-Sep-2023 18:47:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[18-Sep-2023 06:02:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[18-Sep-2023 06:03:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[21-Sep-2023 07:19:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[21-Sep-2023 21:33:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[24-Sep-2023 05:33:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[27-Sep-2023 16:39:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[28-Sep-2023 17:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[29-Sep-2023 12:21:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Oct-2023 12:04:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Oct-2023 22:21:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[06-Oct-2023 18:39:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[07-Oct-2023 19:35:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[07-Oct-2023 19:35:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[07-Oct-2023 19:35:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[07-Oct-2023 19:35:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[07-Oct-2023 19:35:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[11-Oct-2023 21:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[14-Oct-2023 16:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[15-Oct-2023 01:14:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[18-Oct-2023 04:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[19-Oct-2023 05:12:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[20-Oct-2023 11:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[21-Oct-2023 00:20:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[23-Oct-2023 23:03:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[28-Oct-2023 09:25:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[29-Oct-2023 14:35:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Nov-2023 23:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Nov-2023 23:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Nov-2023 23:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Nov-2023 23:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[06-Nov-2023 17:14:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[13-Nov-2023 11:41:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[13-Nov-2023 21:46:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[16-Nov-2023 09:52:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[17-Nov-2023 18:02:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[18-Nov-2023 15:19:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[26-Nov-2023 06:44:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[30-Nov-2023 08:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[02-Dec-2023 09:24:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Dec-2023 22:21:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
+[03-Dec-2023 22:41:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/eflip/public_html/bootstrap/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eflip/public_html/bootstrap/app.php on line 16
